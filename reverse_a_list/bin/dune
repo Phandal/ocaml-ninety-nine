@@ -1,0 +1,4 @@
+(executable
+ (public_name reverse_a_list)
+ (name main)
+ (libraries reverse_a_list))

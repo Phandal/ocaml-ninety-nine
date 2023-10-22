@@ -1,0 +1,4 @@
+(executable
+ (public_name last_two_elements_of_a_list)
+ (name main)
+ (libraries last_two_elements_of_a_list))

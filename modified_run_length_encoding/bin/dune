@@ -1,0 +1,4 @@
+(executable
+ (public_name modified_run_length_encoding)
+ (name main)
+ (libraries modified_run_length_encoding))
