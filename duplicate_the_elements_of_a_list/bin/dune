@@ -1,0 +1,4 @@
+(executable
+ (public_name duplicate_the_elements_of_a_list)
+ (name main)
+ (libraries duplicate_the_elements_of_a_list))
