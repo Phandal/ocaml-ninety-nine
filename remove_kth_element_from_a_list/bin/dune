@@ -1,0 +1,4 @@
+(executable
+ (public_name remove_kth_element_from_a_list)
+ (name main)
+ (libraries remove_kth_element_from_a_list))

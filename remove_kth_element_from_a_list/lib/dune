@@ -1,0 +1,2 @@
+(library
+ (name remove_kth_element_from_a_list))
