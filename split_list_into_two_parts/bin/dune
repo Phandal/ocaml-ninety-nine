@@ -1,0 +1,4 @@
+(executable
+ (public_name split_list_into_two_parts)
+ (name main)
+ (libraries split_list_into_two_parts))
